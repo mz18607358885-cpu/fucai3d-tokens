@@ -16,7 +16,15 @@
     "vip-mske62x3g8hc6o": {
       "id": "vip-mske62x3g8hc6o",
       "created": "2026-08-08T13:10:37.383Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_r7k6wvlct8",
+          "first": "2026-08-08T13:10:44.707Z",
+          "last": "2026-08-08T13:10:44.708Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        }
+      ]
     }
   }
 }
