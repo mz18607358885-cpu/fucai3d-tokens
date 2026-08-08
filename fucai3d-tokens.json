@@ -26,7 +26,15 @@
     "vip-mskjo9g13f4ab3": {
       "id": "vip-mskjo9g13f4ab3",
       "created": "2026-08-08T15:44:43.729Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_x",
+          "first": "2026-08-08T15:44:45.102Z",
+          "last": "2026-08-08T15:44:45.103Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
+        }
+      ]
     }
   }
 }
