@@ -10,6 +10,13 @@
           "last": "2026-08-08T13:11:09.362Z",
           "visits": 2,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
+        {
+          "id": "fp_test_xyz",
+          "first": "2026-08-08T13:19:07.175Z",
+          "last": "2026-08-08T13:19:07.178Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
         }
       ]
     },
