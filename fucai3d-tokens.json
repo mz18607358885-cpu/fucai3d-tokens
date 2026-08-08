@@ -1,25 +1,5 @@
 {
   "tokens": {
-    "vip-mske62x3g8hc6o": {
-      "id": "vip-mske62x3g8hc6o",
-      "created": "2026-08-08T13:10:37.383Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-08T13:10:44.707Z",
-          "last": "2026-08-08T13:31:59.635Z",
-          "visits": 8,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        },
-        {
-          "id": "fp_test_xyz",
-          "first": "2026-08-08T13:19:07.175Z",
-          "last": "2026-08-08T13:19:07.178Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
-    },
     "vip-mskf2dt4i77yrj": {
       "id": "vip-mskf2dt4i77yrj",
       "created": "2026-08-08T13:35:44.488Z",
