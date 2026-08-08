@@ -1,18 +1,5 @@
 {
   "tokens": {
-    "vip-mska0tg3brl000": {
-      "id": "vip-mska0tg3brl000",
-      "created": "2026-08-08T11:14:33.363Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-08T11:23:32.406Z",
-          "last": "2026-08-08T12:14:24.504Z",
-          "visits": 8,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
-    },
     "vip-mskcbko79g4xef": {
       "id": "vip-mskcbko79g4xef",
       "created": "2026-08-08T12:18:54.439Z",
