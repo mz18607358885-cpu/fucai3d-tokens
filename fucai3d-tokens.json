@@ -26,7 +26,15 @@
     "vip-mskk4zcmt3kzm1": {
       "id": "vip-mskk4zcmt3kzm1",
       "created": "2026-08-08T15:57:43.798Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_final_test",
+          "first": "2026-08-08T15:57:45.710Z",
+          "last": "2026-08-08T15:57:45.712Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
+        }
+      ]
     }
   }
 }
