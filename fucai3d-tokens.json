@@ -36,7 +36,15 @@
     "vip-msmlgnjouoten8": {
       "id": "vip-msmlgnjouoten8",
       "created": "2026-08-10T02:10:20.340Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_nbspfyk81f",
+          "first": "2026-08-10T02:11:07.271Z",
+          "last": "2026-08-10T02:11:07.288Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        }
+      ]
     }
   }
 }
