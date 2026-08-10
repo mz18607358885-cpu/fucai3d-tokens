@@ -82,7 +82,15 @@
     "vip-msmxrwmr7qqc4a": {
       "id": "vip-msmxrwmr7qqc4a",
       "created": "2026-08-10T07:55:00.723Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_l6kpdjynhm",
+          "first": "2026-08-10T07:56:25.751Z",
+          "last": "2026-08-10T07:56:25.752Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; ALT-AL10; HMSCore 6.16.2.322) AppleWe"
+        }
+      ]
     }
   }
 }
