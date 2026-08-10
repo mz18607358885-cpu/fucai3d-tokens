@@ -62,7 +62,15 @@
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
       "created": "2026-08-10T04:01:23.701Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_r7k6wvlct8",
+          "first": "2026-08-10T04:01:30.062Z",
+          "last": "2026-08-10T04:01:30.063Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        }
+      ]
     }
   }
 }
