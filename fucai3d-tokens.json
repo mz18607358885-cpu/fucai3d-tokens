@@ -129,7 +129,15 @@
     "vip-msr641174j81qv": {
       "id": "vip-msr641174j81qv",
       "created": "2026-08-13T06:59:27.931Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_1kbmcuhcyq",
+          "first": "2026-08-13T07:09:43.930Z",
+          "last": "2026-08-13T07:09:43.937Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-cn; PHN110 Build/BP2A.250605.015) AppleWeb"
+        }
+      ]
     }
   }
 }
