@@ -195,7 +195,15 @@
     "vip-msshlv45566mnt": {
       "id": "vip-msshlv45566mnt",
       "created": "2026-08-14T05:09:02.021Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_lr8jk9aghh",
+          "first": "2026-08-14T05:10:49.044Z",
+          "last": "2026-08-14T05:10:49.044Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
+        }
+      ]
     }
   }
 }
