@@ -162,7 +162,15 @@
     "vip-msshj0wvd5rjfc": {
       "id": "vip-msshj0wvd5rjfc",
       "created": "2026-08-14T05:06:49.567Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_lr8jk9aghh",
+          "first": "2026-08-14T05:07:25.328Z",
+          "last": "2026-08-14T05:07:25.330Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
+        }
+      ]
     }
   }
 }
