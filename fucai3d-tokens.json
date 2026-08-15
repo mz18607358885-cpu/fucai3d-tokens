@@ -73,15 +73,7 @@
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
       "created": "2026-08-15T04:49:31.634Z",
-      "devices": [
-        {
-          "id": "fp_iphone_real_1",
-          "first": "2026-08-15T13:49:47.396Z",
-          "last": "2026-08-15T13:49:47.396Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
@@ -104,11 +96,5 @@
       "devices": []
     }
   },
-  "globalDevices": {
-    "fp_iphone_real_1": {
-      "first": "2026-08-15T13:49:47.396Z",
-      "last": "2026-08-15T13:49:47.396Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
