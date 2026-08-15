@@ -224,13 +224,6 @@
       "created": "2026-08-15T01:30:06.092Z",
       "devices": [
         {
-          "id": "fp_asqfsvpomd",
-          "first": "2026-08-15T01:46:37.261Z",
-          "last": "2026-08-15T01:46:59.949Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
           "id": "fp_asqfsv8sle",
           "first": "2026-08-15T01:47:15.335Z",
           "last": "2026-08-15T01:47:15.335Z",
