@@ -237,6 +237,13 @@
           "last": "2026-08-15T01:54:36.346Z",
           "visits": 2,
           "ua": "curl/7.88.1"
+        },
+        {
+          "id": "fp_test_global_001",
+          "first": "2026-08-15T01:59:47.687Z",
+          "last": "2026-08-15T01:59:47.687Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
         }
       ]
     },
@@ -266,6 +273,13 @@
           "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
         }
       ]
+    }
+  },
+  "globalDevices": {
+    "fp_test_global_001": {
+      "first": "2026-08-15T01:59:47.687Z",
+      "last": "2026-08-15T01:59:47.687Z",
+      "role": "sub"
     }
   }
 }
