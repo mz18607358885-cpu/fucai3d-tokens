@@ -264,9 +264,22 @@
           "last": "2026-08-15T02:12:55.839Z",
           "visits": 1,
           "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
+        },
+        {
+          "id": "fp_asqfsvm6mz",
+          "first": "2026-08-15T02:14:22.128Z",
+          "last": "2026-08-15T02:14:22.128Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
         }
       ]
     }
   },
-  "globalDevices": {}
+  "globalDevices": {
+    "fp_asqfsvm6mz": {
+      "first": "2026-08-15T02:14:22.128Z",
+      "last": "2026-08-15T02:14:22.128Z",
+      "role": "sub"
+    }
+  }
 }
