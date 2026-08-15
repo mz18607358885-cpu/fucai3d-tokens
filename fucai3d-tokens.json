@@ -3,283 +3,68 @@
     "vip-mskk6g2ghsiis9": {
       "id": "vip-mskk6g2ghsiis9",
       "created": "2026-08-08T15:58:52.120Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-08T15:58:59.725Z",
-          "last": "2026-08-09T05:25:40.398Z",
-          "visits": 5,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-mslfjmq1zw8m6v": {
       "id": "vip-mslfjmq1zw8m6v",
       "created": "2026-08-09T06:36:55.369Z",
-      "devices": [
-        {
-          "id": "fp_5oe8rsaeg4",
-          "first": "2026-08-09T06:45:18.997Z",
-          "last": "2026-08-09T06:45:19.005Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; Android 15; ALI-AN00 Build/HONORALI-AN00; wv) AppleWebKit/53"
-        },
-        {
-          "id": "fp_bpw6qk18g6",
-          "first": "2026-08-09T07:15:27.527Z",
-          "last": "2026-08-10T02:26:01.816Z",
-          "visits": 5,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        },
-        {
-          "id": "fp_bpw6qki27a",
-          "first": "2026-08-10T07:50:27.399Z",
-          "last": "2026-08-10T14:54:35.296Z",
-          "visits": 4,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msmlgnjouoten8": {
       "id": "vip-msmlgnjouoten8",
       "created": "2026-08-10T02:10:20.340Z",
-      "devices": [
-        {
-          "id": "fp_nbspfyk81f",
-          "first": "2026-08-10T02:11:07.271Z",
-          "last": "2026-08-12T13:52:11.332Z",
-          "visits": 5,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msmnc7pwtgnlhn": {
       "id": "vip-msmnc7pwtgnlhn",
       "created": "2026-08-10T03:02:52.436Z",
-      "devices": [
-        {
-          "id": "fp_za3gok7il8",
-          "first": "2026-08-10T03:06:04.526Z",
-          "last": "2026-08-15T00:58:14.177Z",
-          "visits": 33,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        },
-        {
-          "id": "fp_kjqkolsszl",
-          "first": "2026-08-11T09:21:11.166Z",
-          "last": "2026-08-11T09:21:11.176Z",
-          "visits": 1,
-          "ua": "pc"
-        }
-      ]
+      "devices": []
     },
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
       "created": "2026-08-10T04:01:23.701Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-10T04:01:30.062Z",
-          "last": "2026-08-10T12:51:31.130Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-msmxrwmr7qqc4a": {
       "id": "vip-msmxrwmr7qqc4a",
       "created": "2026-08-10T07:55:00.723Z",
-      "devices": [
-        {
-          "id": "fp_l6kpdjynhm",
-          "first": "2026-08-10T07:56:25.751Z",
-          "last": "2026-08-10T07:56:39.380Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; ALT-AL10; HMSCore 6.16.2.322) AppleWe"
-        },
-        {
-          "id": "fp_c41a43qhfe",
-          "first": "2026-08-10T08:16:34.725Z",
-          "last": "2026-08-12T16:08:42.773Z",
-          "visits": 19,
-          "ua": "Mozilla/5.0 (Linux; Android 12; ALT-AL10 Build/HUAWEIALT-AL10; wv) AppleWebKit/5"
-        }
-      ]
+      "devices": []
     },
     "vip-mspycpj3id50i8": {
       "id": "vip-mspycpj3id50i8",
       "created": "2026-08-12T10:34:29.823Z",
-      "devices": [
-        {
-          "id": "fp_bpw6qkxnv5",
-          "first": "2026-08-12T10:34:59.751Z",
-          "last": "2026-08-12T10:35:29.455Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        },
-        {
-          "id": "fp_gp3zcjue3l",
-          "first": "2026-08-12T10:36:12.192Z",
-          "last": "2026-08-12T10:36:53.363Z",
-          "visits": 4,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msr641174j81qv": {
       "id": "vip-msr641174j81qv",
       "created": "2026-08-13T06:59:27.931Z",
-      "devices": [
-        {
-          "id": "fp_1kbmcuhcyq",
-          "first": "2026-08-13T07:09:43.930Z",
-          "last": "2026-08-13T07:09:43.937Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-cn; PHN110 Build/BP2A.250605.015) AppleWeb"
-        },
-        {
-          "id": "fp_d5bgpnyv5p",
-          "first": "2026-08-13T07:13:27.251Z",
-          "last": "2026-08-13T07:13:27.251Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-msr9sxif6lopvq": {
       "id": "vip-msr9sxif6lopvq",
       "created": "2026-08-13T08:42:48.615Z",
-      "devices": [
-        {
-          "id": "fp_yh0m9avn33",
-          "first": "2026-08-13T08:43:06.611Z",
-          "last": "2026-08-14T06:54:53.184Z",
-          "visits": 4,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        },
-        {
-          "id": "fp_56i0fnh20f",
-          "first": "2026-08-14T10:48:09.348Z",
-          "last": "2026-08-14T10:48:09.354Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msshj0wvd5rjfc": {
       "id": "vip-msshj0wvd5rjfc",
       "created": "2026-08-14T05:06:49.567Z",
-      "devices": [
-        {
-          "id": "fp_lr8jk9aghh",
-          "first": "2026-08-14T05:07:25.328Z",
-          "last": "2026-08-14T05:07:25.330Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
-        },
-        {
-          "id": "fp_muf3e9zf7r",
-          "first": "2026-08-14T05:10:06.631Z",
-          "last": "2026-08-14T05:46:39.319Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Linux; Android 16; V2502A) AppleWebKit/537.36 (KHTML, like Gecko) C"
-        },
-        {
-          "id": "fp_test_unique_002",
-          "first": "2026-08-15T01:54:38.832Z",
-          "last": "2026-08-15T01:54:38.833Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-msshkskbyunb2j": {
       "id": "vip-msshkskbyunb2j",
       "created": "2026-08-14T05:08:12.059Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-14T05:08:18.370Z",
-          "last": "2026-08-14T14:17:58.113Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        },
-        {
-          "id": "fp_test_unique_002",
-          "first": "2026-08-15T01:54:37.631Z",
-          "last": "2026-08-15T01:54:37.631Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-msshlv45566mnt": {
       "id": "vip-msshlv45566mnt",
       "created": "2026-08-14T05:09:02.021Z",
-      "devices": [
-        {
-          "id": "fp_test_unique_001",
-          "first": "2026-08-15T01:54:27.700Z",
-          "last": "2026-08-15T01:54:27.700Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": [
-        {
-          "id": "fp_asqfsv8sle",
-          "first": "2026-08-15T01:47:15.335Z",
-          "last": "2026-08-15T01:47:15.335Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvq2kw",
-          "first": "2026-08-15T01:49:02.621Z",
-          "last": "2026-08-15T01:49:02.621Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvdwa1",
-          "first": "2026-08-15T01:55:50.513Z",
-          "last": "2026-08-15T01:55:50.513Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvqtbd",
-          "first": "2026-08-15T02:12:31.856Z",
-          "last": "2026-08-15T02:12:46.558Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvetqy",
-          "first": "2026-08-15T02:12:55.839Z",
-          "last": "2026-08-15T02:12:55.839Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvm6mz",
-          "first": "2026-08-15T02:14:22.128Z",
-          "last": "2026-08-15T02:14:22.128Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        }
-      ]
+      "devices": []
     }
   },
-  "globalDevices": {
-    "fp_asqfsvm6mz": {
-      "first": "2026-08-15T02:14:22.128Z",
-      "last": "2026-08-15T02:14:22.128Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
