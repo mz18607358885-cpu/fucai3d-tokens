@@ -211,47 +211,6 @@
           "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
         }
       ]
-    },
-    "vip-mst4far0au4e7x": {
-      "id": "vip-mst4far0au4e7x",
-      "created": "2026-08-14T15:47:46.860Z",
-      "devices": [
-        {
-          "id": "fp_asqfsvxwkx",
-          "first": "2026-08-15T01:21:26.265Z",
-          "last": "2026-08-15T01:21:52.002Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvihll",
-          "first": "2026-08-15T01:22:22.651Z",
-          "last": "2026-08-15T01:23:03.571Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsvzguy",
-          "first": "2026-08-15T01:23:08.706Z",
-          "last": "2026-08-15T01:23:08.706Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsv9k5f",
-          "first": "2026-08-15T01:23:19.830Z",
-          "last": "2026-08-15T01:24:03.873Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_asqfsveewv",
-          "first": "2026-08-15T01:24:21.636Z",
-          "last": "2026-08-15T01:24:42.922Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        }
-      ]
     }
   }
 }
