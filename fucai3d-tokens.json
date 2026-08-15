@@ -225,13 +225,6 @@
       "created": "2026-08-14T05:09:02.021Z",
       "devices": [
         {
-          "id": "fp_lr8jk9aghh",
-          "first": "2026-08-14T05:10:49.044Z",
-          "last": "2026-08-14T13:29:23.486Z",
-          "visits": 7,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
-        },
-        {
           "id": "fp_test_unique_001",
           "first": "2026-08-15T01:54:27.700Z",
           "last": "2026-08-15T01:54:27.700Z",
