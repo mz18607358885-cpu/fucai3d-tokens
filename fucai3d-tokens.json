@@ -78,8 +78,22 @@
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
       "created": "2026-08-15T04:53:08.717Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_r7k6wvlct8",
+          "first": "2026-08-15T05:08:52.037Z",
+          "last": "2026-08-15T05:08:52.037Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        }
+      ]
     }
   },
-  "globalDevices": {}
+  "globalDevices": {
+    "fp_r7k6wvlct8": {
+      "first": "2026-08-15T05:08:52.037Z",
+      "last": "2026-08-15T05:08:52.037Z",
+      "role": "sub"
+    }
+  }
 }
