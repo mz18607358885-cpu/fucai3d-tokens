@@ -58,15 +58,7 @@
     "vip-msshlv45566mnt": {
       "id": "vip-msshlv45566mnt",
       "created": "2026-08-14T05:09:02.021Z",
-      "devices": [
-        {
-          "id": "fp_544084jkzt",
-          "first": "2026-08-15T02:20:57.236Z",
-          "last": "2026-08-15T02:20:57.236Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; Android 16; V2502A Build/BP2A.250605.031.A3_V000L1; wv) Appl"
-        }
-      ]
+      "devices": []
     },
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
