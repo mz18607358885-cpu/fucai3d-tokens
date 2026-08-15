@@ -73,36 +73,7 @@
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
       "created": "2026-08-15T04:49:31.634Z",
-      "devices": [
-        {
-          "id": "fp_full_v2_1",
-          "first": "2026-08-15T05:11:27.977Z",
-          "last": "2026-08-15T05:11:34.947Z",
-          "visits": 2,
-          "ua": "curl/7.88.1"
-        },
-        {
-          "id": "fp_full_v2_2",
-          "first": "2026-08-15T05:11:29.461Z",
-          "last": "2026-08-15T05:11:29.461Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        },
-        {
-          "id": "fp_full_v2_4",
-          "first": "2026-08-15T05:11:31.459Z",
-          "last": "2026-08-15T05:11:31.459Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        },
-        {
-          "id": "fp_full_v2_5",
-          "first": "2026-08-15T05:11:32.963Z",
-          "last": "2026-08-15T05:11:32.963Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
@@ -110,26 +81,5 @@
       "devices": []
     }
   },
-  "globalDevices": {
-    "fp_full_v2_1": {
-      "first": "2026-08-15T05:11:27.977Z",
-      "last": "2026-08-15T05:11:34.947Z",
-      "role": "sub"
-    },
-    "fp_full_v2_2": {
-      "first": "2026-08-15T05:11:29.461Z",
-      "last": "2026-08-15T05:11:29.461Z",
-      "role": "sub"
-    },
-    "fp_full_v2_4": {
-      "first": "2026-08-15T05:11:31.459Z",
-      "last": "2026-08-15T05:11:31.459Z",
-      "role": "sub"
-    },
-    "fp_full_v2_5": {
-      "first": "2026-08-15T05:11:32.963Z",
-      "last": "2026-08-15T05:11:32.963Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
