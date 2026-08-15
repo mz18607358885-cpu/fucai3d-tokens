@@ -108,8 +108,8 @@
         {
           "id": "fp_ys3otxchhd",
           "first": "2026-08-15T12:25:24.062Z",
-          "last": "2026-08-15T12:25:24.062Z",
-          "visits": 1,
+          "last": "2026-08-15T12:25:47.323Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; HBP-AL00; HMSCore 6.16.2.342) AppleWe"
         }
       ]
@@ -128,7 +128,7 @@
     },
     "fp_ys3otxchhd": {
       "first": "2026-08-15T12:25:24.062Z",
-      "last": "2026-08-15T12:25:24.062Z",
+      "last": "2026-08-15T12:25:47.323Z",
       "role": "sub"
     }
   }
