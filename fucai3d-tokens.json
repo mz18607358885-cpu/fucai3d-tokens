@@ -196,6 +196,13 @@
           "last": "2026-08-14T14:17:58.113Z",
           "visits": 3,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
+        {
+          "id": "fp_test_unique_002",
+          "first": "2026-08-15T01:54:37.631Z",
+          "last": "2026-08-15T01:54:37.631Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
         }
       ]
     },
