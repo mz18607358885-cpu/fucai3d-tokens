@@ -18,7 +18,15 @@
     "vip-msmnc7pwtgnlhn": {
       "id": "vip-msmnc7pwtgnlhn",
       "created": "2026-08-10T03:02:52.436Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_e2b4djs1y3",
+          "first": "2026-08-15T13:27:44.000Z",
+          "last": "2026-08-15T13:27:44.000Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        }
+      ]
     },
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
@@ -146,6 +154,11 @@
     "fp_fxofokow4u": {
       "first": "2026-08-15T12:26:11.951Z",
       "last": "2026-08-15T12:40:47.852Z",
+      "role": "sub"
+    },
+    "fp_e2b4djs1y3": {
+      "first": "2026-08-15T13:27:44.000Z",
+      "last": "2026-08-15T13:27:44.000Z",
       "role": "sub"
     }
   }
