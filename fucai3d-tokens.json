@@ -215,15 +215,7 @@
     "vip-mst4far0au4e7x": {
       "id": "vip-mst4far0au4e7x",
       "created": "2026-08-14T15:47:46.860Z",
-      "devices": [
-        {
-          "id": "fp_asqfsv3xif",
-          "first": "2026-08-14T18:45:59.709Z",
-          "last": "2026-08-14T18:45:59.718Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        }
-      ]
+      "devices": []
     }
   }
 }
