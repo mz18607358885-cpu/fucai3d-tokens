@@ -63,7 +63,15 @@
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_3dcwg4zapc",
+          "first": "2026-08-15T15:05:48.625Z",
+          "last": "2026-08-15T15:05:48.625Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 13; V2230A) AppleWebKit/537.36 (KHTML, like Gecko) C"
+        }
+      ]
     },
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
@@ -108,6 +116,11 @@
     "fp_544084jkzt": {
       "first": "2026-08-15T13:50:07.539Z",
       "last": "2026-08-15T13:50:07.539Z",
+      "role": "sub"
+    },
+    "fp_3dcwg4zapc": {
+      "first": "2026-08-15T15:05:48.625Z",
+      "last": "2026-08-15T15:05:48.625Z",
       "role": "sub"
     }
   }
