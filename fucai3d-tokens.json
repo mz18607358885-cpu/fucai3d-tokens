@@ -73,7 +73,15 @@
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
       "created": "2026-08-15T04:49:31.634Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_v3_real_1",
+          "first": "2026-08-15T05:11:47.725Z",
+          "last": "2026-08-15T05:11:47.725Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
+        }
+      ]
     },
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
@@ -81,5 +89,11 @@
       "devices": []
     }
   },
-  "globalDevices": {}
+  "globalDevices": {
+    "fp_v3_real_1": {
+      "first": "2026-08-15T05:11:47.725Z",
+      "last": "2026-08-15T05:11:47.725Z",
+      "role": "sub"
+    }
+  }
 }
