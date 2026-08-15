@@ -83,7 +83,15 @@
     "vip-msu6dhqrkgmali": {
       "id": "vip-msu6dhqrkgmali",
       "created": "2026-08-15T09:30:08.019Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_544084jkzt",
+          "first": "2026-08-15T13:50:07.539Z",
+          "last": "2026-08-15T13:50:07.539Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; V2502A Build/BP2A.250605.031.A3_V000L1; wv) Appl"
+        }
+      ]
     },
     "vip-msuclpy03b6qpd": {
       "id": "vip-msuclpy03b6qpd",
@@ -96,5 +104,11 @@
       "devices": []
     }
   },
-  "globalDevices": {}
+  "globalDevices": {
+    "fp_544084jkzt": {
+      "first": "2026-08-15T13:50:07.539Z",
+      "last": "2026-08-15T13:50:07.539Z",
+      "role": "sub"
+    }
+  }
 }
