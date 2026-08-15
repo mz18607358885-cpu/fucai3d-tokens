@@ -215,7 +215,15 @@
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_asqfsvpomd",
+          "first": "2026-08-15T01:46:37.261Z",
+          "last": "2026-08-15T01:46:37.262Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
+        }
+      ]
     }
   }
 }
