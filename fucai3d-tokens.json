@@ -63,55 +63,17 @@
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": [
-        {
-          "id": "fp_z9mjbtsbon",
-          "first": "2026-08-15T03:32:40.943Z",
-          "last": "2026-08-15T03:33:29.839Z",
-          "visits": 4,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0) AppleWebKit/537.36 (KHTML, like Gecko) Chro"
-        },
-        {
-          "id": "fp_asqfsv6qcu",
-          "first": "2026-08-15T03:42:06.789Z",
-          "last": "2026-08-15T03:42:06.789Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
-        },
-        {
-          "id": "fp_3dcwg4zapc",
-          "first": "2026-08-15T04:07:38.939Z",
-          "last": "2026-08-15T04:21:39.908Z",
-          "visits": 12,
-          "ua": "Mozilla/5.0 (Linux; Android 13; V2230A) AppleWebKit/537.36 (KHTML, like Gecko) C"
-        }
-      ]
+      "devices": []
     },
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
       "created": "2026-08-15T04:46:38.315Z",
-      "devices": [
-        {
-          "id": "fp_w10wvlypuo",
-          "first": "2026-08-15T04:49:44.472Z",
-          "last": "2026-08-15T04:57:30.982Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Linux; Android 15; 24129PN74C Build/AQ3A.240812.002; wv) AppleWebKi"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
       "created": "2026-08-15T04:49:31.634Z",
-      "devices": [
-        {
-          "id": "fp_544084jkzt",
-          "first": "2026-08-15T04:56:27.607Z",
-          "last": "2026-08-15T04:56:33.289Z",
-          "visits": 4,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
@@ -119,31 +81,5 @@
       "devices": []
     }
   },
-  "globalDevices": {
-    "fp_544084jkzt": {
-      "first": "2026-08-15T02:20:57.236Z",
-      "last": "2026-08-15T04:56:33.289Z",
-      "role": "sub"
-    },
-    "fp_z9mjbtsbon": {
-      "first": "2026-08-15T03:32:40.943Z",
-      "last": "2026-08-15T03:33:29.839Z",
-      "role": "sub"
-    },
-    "fp_asqfsv6qcu": {
-      "first": "2026-08-15T03:42:06.789Z",
-      "last": "2026-08-15T03:42:06.789Z",
-      "role": "sub"
-    },
-    "fp_3dcwg4zapc": {
-      "first": "2026-08-15T04:07:38.939Z",
-      "last": "2026-08-15T04:21:39.908Z",
-      "role": "sub"
-    },
-    "fp_w10wvlypuo": {
-      "first": "2026-08-15T04:49:44.472Z",
-      "last": "2026-08-15T04:57:30.982Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
