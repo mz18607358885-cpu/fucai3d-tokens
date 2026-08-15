@@ -72,8 +72,8 @@
         {
           "id": "fp_w10wvlypuo",
           "first": "2026-08-15T05:13:16.249Z",
-          "last": "2026-08-15T05:17:25.667Z",
-          "visits": 2,
+          "last": "2026-08-15T06:20:35.002Z",
+          "visits": 3,
           "ua": "Mozilla/5.0 (Linux; Android 15; 24129PN74C Build/AQ3A.240812.002; wv) AppleWebKi"
         }
       ]
@@ -92,7 +92,7 @@
   "globalDevices": {
     "fp_w10wvlypuo": {
       "first": "2026-08-15T05:13:16.249Z",
-      "last": "2026-08-15T05:17:25.667Z",
+      "last": "2026-08-15T06:20:35.002Z",
       "role": "sub"
     }
   }
