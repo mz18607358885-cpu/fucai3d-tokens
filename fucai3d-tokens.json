@@ -18,15 +18,7 @@
     "vip-msmnc7pwtgnlhn": {
       "id": "vip-msmnc7pwtgnlhn",
       "created": "2026-08-10T03:02:52.436Z",
-      "devices": [
-        {
-          "id": "fp_e2b4djs1y3",
-          "first": "2026-08-15T13:27:44.000Z",
-          "last": "2026-08-15T13:37:27.199Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
@@ -71,28 +63,12 @@
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": [
-        {
-          "id": "fp_3dcwg4zapc",
-          "first": "2026-08-15T09:23:58.577Z",
-          "last": "2026-08-15T13:25:43.257Z",
-          "visits": 9,
-          "ua": "Mozilla/5.0 (Linux; Android 13; V2230A) AppleWebKit/537.36 (KHTML, like Gecko) C"
-        }
-      ]
+      "devices": []
     },
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
       "created": "2026-08-15T04:46:38.315Z",
-      "devices": [
-        {
-          "id": "fp_w10wvlypuo",
-          "first": "2026-08-15T05:13:16.249Z",
-          "last": "2026-08-15T06:25:59.637Z",
-          "visits": 4,
-          "ua": "Mozilla/5.0 (Linux; Android 15; 24129PN74C Build/AQ3A.240812.002; wv) AppleWebKi"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
@@ -112,22 +88,7 @@
     "vip-msuclpy03b6qpd": {
       "id": "vip-msuclpy03b6qpd",
       "created": "2026-08-15T12:24:29.592Z",
-      "devices": [
-        {
-          "id": "fp_ys3otxchhd",
-          "first": "2026-08-15T12:25:24.062Z",
-          "last": "2026-08-15T12:25:47.323Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; HBP-AL00; HMSCore 6.16.2.342) AppleWe"
-        },
-        {
-          "id": "fp_fxofokow4u",
-          "first": "2026-08-15T12:26:11.951Z",
-          "last": "2026-08-15T12:40:47.852Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-msuef7rheg43ww": {
       "id": "vip-msuef7rheg43ww",
@@ -135,31 +96,5 @@
       "devices": []
     }
   },
-  "globalDevices": {
-    "fp_w10wvlypuo": {
-      "first": "2026-08-15T05:13:16.249Z",
-      "last": "2026-08-15T06:25:59.637Z",
-      "role": "sub"
-    },
-    "fp_3dcwg4zapc": {
-      "first": "2026-08-15T09:23:58.577Z",
-      "last": "2026-08-15T13:25:43.257Z",
-      "role": "sub"
-    },
-    "fp_ys3otxchhd": {
-      "first": "2026-08-15T12:25:24.062Z",
-      "last": "2026-08-15T12:25:47.323Z",
-      "role": "sub"
-    },
-    "fp_fxofokow4u": {
-      "first": "2026-08-15T12:26:11.951Z",
-      "last": "2026-08-15T12:40:47.852Z",
-      "role": "sub"
-    },
-    "fp_e2b4djs1y3": {
-      "first": "2026-08-15T13:27:44.000Z",
-      "last": "2026-08-15T13:37:27.199Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
