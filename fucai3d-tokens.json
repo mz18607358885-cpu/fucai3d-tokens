@@ -183,6 +183,13 @@
           "last": "2026-08-14T05:46:39.319Z",
           "visits": 2,
           "ua": "Mozilla/5.0 (Linux; Android 16; V2502A) AppleWebKit/537.36 (KHTML, like Gecko) C"
+        },
+        {
+          "id": "fp_test_unique_002",
+          "first": "2026-08-15T01:54:38.832Z",
+          "last": "2026-08-15T01:54:38.833Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
         }
       ]
     },
