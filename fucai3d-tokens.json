@@ -58,15 +58,7 @@
     "vip-msshlv45566mnt": {
       "id": "vip-msshlv45566mnt",
       "created": "2026-08-14T05:09:02.021Z",
-      "devices": [
-        {
-          "id": "fp_z9mjbtsbon",
-          "first": "2026-08-15T05:10:41.686Z",
-          "last": "2026-08-15T05:10:41.686Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
@@ -81,69 +73,13 @@
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
       "created": "2026-08-15T04:49:31.634Z",
-      "devices": [
-        {
-          "id": "fp_544084jkzt",
-          "first": "2026-08-15T05:10:38.225Z",
-          "last": "2026-08-15T05:10:38.225Z",
-          "visits": 1,
-          "ua": "curl/7.88.1"
-        },
-        {
-          "id": "fp_brand_new_006",
-          "first": "2026-08-15T05:10:40.235Z",
-          "last": "2026-08-15T05:10:58.569Z",
-          "visits": 2,
-          "ua": "curl/7.88.1"
-        },
-        {
-          "id": "fp_test_full_1",
-          "first": "2026-08-15T05:10:52.907Z",
-          "last": "2026-08-15T05:10:57.347Z",
-          "visits": 2,
-          "ua": "curl/7.88.1"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwha7hiysghc": {
       "id": "vip-mstwha7hiysghc",
       "created": "2026-08-15T04:53:08.717Z",
-      "devices": [
-        {
-          "id": "fp_r7k6wvlct8",
-          "first": "2026-08-15T05:08:52.037Z",
-          "last": "2026-08-15T05:08:52.037Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     }
   },
-  "globalDevices": {
-    "fp_r7k6wvlct8": {
-      "first": "2026-08-15T05:08:52.037Z",
-      "last": "2026-08-15T05:08:52.037Z",
-      "role": "sub"
-    },
-    "fp_544084jkzt": {
-      "first": "2026-08-15T05:10:38.225Z",
-      "last": "2026-08-15T05:10:38.225Z",
-      "role": "sub"
-    },
-    "fp_brand_new_006": {
-      "first": "2026-08-15T05:10:40.235Z",
-      "last": "2026-08-15T05:10:58.569Z",
-      "role": "sub"
-    },
-    "fp_z9mjbtsbon": {
-      "first": "2026-08-15T05:10:41.686Z",
-      "last": "2026-08-15T05:10:41.686Z",
-      "role": "sub"
-    },
-    "fp_test_full_1": {
-      "first": "2026-08-15T05:10:52.907Z",
-      "last": "2026-08-15T05:10:57.347Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
