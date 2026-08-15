@@ -22,8 +22,8 @@
         {
           "id": "fp_e2b4djs1y3",
           "first": "2026-08-15T13:27:44.000Z",
-          "last": "2026-08-15T13:27:44.000Z",
-          "visits": 1,
+          "last": "2026-08-15T13:37:27.199Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
@@ -158,7 +158,7 @@
     },
     "fp_e2b4djs1y3": {
       "first": "2026-08-15T13:27:44.000Z",
-      "last": "2026-08-15T13:27:44.000Z",
+      "last": "2026-08-15T13:37:27.199Z",
       "role": "sub"
     }
   }
