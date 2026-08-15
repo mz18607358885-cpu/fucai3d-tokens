@@ -254,8 +254,8 @@
         {
           "id": "fp_asqfsvqtbd",
           "first": "2026-08-15T02:12:31.856Z",
-          "last": "2026-08-15T02:12:31.856Z",
-          "visits": 1,
+          "last": "2026-08-15T02:12:46.558Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (Phone; OpenHarmony 7.0; Android 10) AppleWebKit/537.36 (KHTML, like"
         }
       ]
@@ -264,7 +264,7 @@
   "globalDevices": {
     "fp_asqfsvqtbd": {
       "first": "2026-08-15T02:12:31.856Z",
-      "last": "2026-08-15T02:12:31.856Z",
+      "last": "2026-08-15T02:12:46.558Z",
       "role": "sub"
     }
   }
