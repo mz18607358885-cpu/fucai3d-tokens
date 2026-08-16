@@ -62,8 +62,8 @@
         {
           "id": "fp_lr8jk9aghh",
           "first": "2026-08-16T11:21:43.771Z",
-          "last": "2026-08-16T11:21:43.771Z",
-          "visits": 1,
+          "last": "2026-08-16T11:22:21.252Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
         }
       ]
@@ -145,7 +145,7 @@
     },
     "fp_lr8jk9aghh": {
       "first": "2026-08-16T11:21:43.771Z",
-      "last": "2026-08-16T11:21:43.771Z",
+      "last": "2026-08-16T11:22:21.252Z",
       "role": "sub"
     }
   }
