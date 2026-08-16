@@ -18,15 +18,7 @@
     "vip-msmnc7pwtgnlhn": {
       "id": "vip-msmnc7pwtgnlhn",
       "created": "2026-08-10T03:02:52.436Z",
-      "devices": [
-        {
-          "id": "fp_za3gok7il8",
-          "first": "2026-08-16T00:20:35.067Z",
-          "last": "2026-08-16T00:20:35.067Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
@@ -46,15 +38,7 @@
     "vip-msr641174j81qv": {
       "id": "vip-msr641174j81qv",
       "created": "2026-08-13T06:59:27.931Z",
-      "devices": [
-        {
-          "id": "fp_drby7i",
-          "first": "2026-08-15T23:41:50.899Z",
-          "last": "2026-08-15T23:41:50.899Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-        }
-      ]
+      "devices": []
     },
     "vip-msr9sxif6lopvq": {
       "id": "vip-msr9sxif6lopvq",
@@ -79,15 +63,7 @@
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
       "created": "2026-08-15T01:30:06.092Z",
-      "devices": [
-        {
-          "id": "fp_3dcwg4zapc",
-          "first": "2026-08-15T15:05:48.625Z",
-          "last": "2026-08-15T15:05:48.625Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; Android 13; V2230A) AppleWebKit/537.36 (KHTML, like Gecko) C"
-        }
-      ]
+      "devices": []
     },
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
@@ -107,28 +83,12 @@
     "vip-msu6dhqrkgmali": {
       "id": "vip-msu6dhqrkgmali",
       "created": "2026-08-15T09:30:08.019Z",
-      "devices": [
-        {
-          "id": "fp_544084jkzt",
-          "first": "2026-08-15T13:50:07.539Z",
-          "last": "2026-08-15T13:50:07.539Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; Android 16; V2502A Build/BP2A.250605.031.A3_V000L1; wv) Appl"
-        }
-      ]
+      "devices": []
     },
     "vip-msuclpy03b6qpd": {
       "id": "vip-msuclpy03b6qpd",
       "created": "2026-08-15T12:24:29.592Z",
-      "devices": [
-        {
-          "id": "fp_ys3otxchhd",
-          "first": "2026-08-15T23:47:16.373Z",
-          "last": "2026-08-15T23:48:55.574Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; HBP-AL00; HMSCore 6.16.2.342) AppleWe"
-        }
-      ]
+      "devices": []
     },
     "vip-msuef7rheg43ww": {
       "id": "vip-msuef7rheg43ww",
@@ -136,31 +96,5 @@
       "devices": []
     }
   },
-  "globalDevices": {
-    "fp_544084jkzt": {
-      "first": "2026-08-15T13:50:07.539Z",
-      "last": "2026-08-15T13:50:07.539Z",
-      "role": "sub"
-    },
-    "fp_3dcwg4zapc": {
-      "first": "2026-08-15T15:05:48.625Z",
-      "last": "2026-08-15T15:05:48.625Z",
-      "role": "sub"
-    },
-    "fp_drby7i": {
-      "first": "2026-08-15T23:41:50.899Z",
-      "last": "2026-08-15T23:41:50.899Z",
-      "role": "sub"
-    },
-    "fp_ys3otxchhd": {
-      "first": "2026-08-15T23:47:16.373Z",
-      "last": "2026-08-15T23:48:55.574Z",
-      "role": "sub"
-    },
-    "fp_za3gok7il8": {
-      "first": "2026-08-16T00:20:35.067Z",
-      "last": "2026-08-16T00:20:35.067Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
