@@ -67,8 +67,8 @@
         {
           "id": "fp_3dcwg4zapc",
           "first": "2026-08-16T09:45:25.430Z",
-          "last": "2026-08-16T09:45:25.430Z",
-          "visits": 1,
+          "last": "2026-08-16T09:46:49.238Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (Linux; Android 13; V2230A) AppleWebKit/537.36 (KHTML, like Gecko) C"
         }
       ]
@@ -132,7 +132,7 @@
     },
     "fp_3dcwg4zapc": {
       "first": "2026-08-16T09:45:25.430Z",
-      "last": "2026-08-16T09:45:25.430Z",
+      "last": "2026-08-16T09:46:49.238Z",
       "role": "sub"
     }
   }
