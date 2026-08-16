@@ -90,6 +90,13 @@
           "last": "2026-08-16T03:36:50.983Z",
           "visits": 1,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
+        {
+          "id": "fp_xsu52r",
+          "first": "2026-08-16T03:38:31.155Z",
+          "last": "2026-08-16T03:38:31.155Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
         }
       ]
     },
@@ -108,6 +115,11 @@
     "fp_r7k6wvlct8": {
       "first": "2026-08-16T03:36:50.983Z",
       "last": "2026-08-16T03:36:50.983Z",
+      "role": "sub"
+    },
+    "fp_xsu52r": {
+      "first": "2026-08-16T03:38:31.155Z",
+      "last": "2026-08-16T03:38:31.155Z",
       "role": "sub"
     }
   }
