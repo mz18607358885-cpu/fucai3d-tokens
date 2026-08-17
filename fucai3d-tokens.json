@@ -134,8 +134,8 @@
         {
           "id": "fp_xsu52r",
           "first": "2026-08-16T14:20:16.455Z",
-          "last": "2026-08-17T13:21:15.057Z",
-          "visits": 6,
+          "last": "2026-08-17T13:21:16.215Z",
+          "visits": 7,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
         }
       ]
@@ -144,7 +144,7 @@
   "globalDevices": {
     "fp_xsu52r": {
       "first": "2026-08-16T14:20:16.455Z",
-      "last": "2026-08-17T13:21:15.057Z",
+      "last": "2026-08-17T13:21:16.215Z",
       "role": "sub"
     },
     "fp_za3gok7il8": {
