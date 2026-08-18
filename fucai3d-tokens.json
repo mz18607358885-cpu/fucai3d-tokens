@@ -92,7 +92,15 @@
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
       "created": "2026-08-15T04:46:38.315Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_w10wvlypuo",
+          "first": "2026-08-18T11:45:35.369Z",
+          "last": "2026-08-18T11:45:35.369Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 15; 24129PN74C Build/AQ3A.240812.002; wv) AppleWebKi"
+        }
+      ]
     },
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
@@ -152,6 +160,11 @@
     "fp_ys3otxchhd": {
       "first": "2026-08-18T11:36:21.207Z",
       "last": "2026-08-18T11:36:34.249Z",
+      "role": "sub"
+    },
+    "fp_w10wvlypuo": {
+      "first": "2026-08-18T11:45:35.369Z",
+      "last": "2026-08-18T11:45:35.369Z",
       "role": "sub"
     }
   }
