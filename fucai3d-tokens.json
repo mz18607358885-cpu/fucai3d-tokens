@@ -158,7 +158,15 @@
     "vip-msy9ux51g544pn": {
       "id": "vip-msy9ux51g544pn",
       "created": "2026-08-18T06:18:44.677Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "test-debug-001",
+          "first": "2026-08-18T06:18:47.803Z",
+          "last": "2026-08-18T06:18:47.803Z",
+          "visits": 1,
+          "ua": "curl/7.88.1"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -185,6 +193,11 @@
     "fp_w10wvlypuo": {
       "first": "2026-08-18T04:33:21.092Z",
       "last": "2026-08-18T04:47:40.214Z",
+      "role": "sub"
+    },
+    "test-debug-001": {
+      "first": "2026-08-18T06:18:47.803Z",
+      "last": "2026-08-18T06:18:47.803Z",
       "role": "sub"
     }
   }
