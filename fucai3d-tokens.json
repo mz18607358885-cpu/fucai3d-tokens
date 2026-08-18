@@ -18,15 +18,7 @@
     "vip-msmnc7pwtgnlhn": {
       "id": "vip-msmnc7pwtgnlhn",
       "created": "2026-08-10T03:02:52.436Z",
-      "devices": [
-        {
-          "id": "fp_za3gok7il8",
-          "first": "2026-08-16T14:32:39.205Z",
-          "last": "2026-08-16T17:00:32.437Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msmpfh11hel0ij": {
       "id": "vip-msmpfh11hel0ij",
@@ -51,15 +43,7 @@
     "vip-msr9sxif6lopvq": {
       "id": "vip-msr9sxif6lopvq",
       "created": "2026-08-13T08:42:48.615Z",
-      "devices": [
-        {
-          "id": "fp_xsu52r",
-          "first": "2026-08-17T09:01:30.745Z",
-          "last": "2026-08-18T03:00:03.404Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msshj0wvd5rjfc": {
       "id": "vip-msshj0wvd5rjfc",
@@ -74,15 +58,7 @@
     "vip-msshlv45566mnt": {
       "id": "vip-msshlv45566mnt",
       "created": "2026-08-14T05:09:02.021Z",
-      "devices": [
-        {
-          "id": "fp_lr8jk9aghh",
-          "first": "2026-08-17T12:15:26.825Z",
-          "last": "2026-08-18T00:37:23.200Z",
-          "visits": 7,
-          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
-        }
-      ]
+      "devices": []
     },
     "vip-mstp8618cuefak": {
       "id": "vip-mstp8618cuefak",
@@ -92,15 +68,7 @@
     "vip-mstw8wyzv5xy2q": {
       "id": "vip-mstw8wyzv5xy2q",
       "created": "2026-08-15T04:46:38.315Z",
-      "devices": [
-        {
-          "id": "fp_w10wvlypuo",
-          "first": "2026-08-18T04:33:21.092Z",
-          "last": "2026-08-18T04:47:40.214Z",
-          "visits": 3,
-          "ua": "Mozilla/5.0 (Linux; Android 15; 24129PN74C Build/AQ3A.240812.002; wv) AppleWebKi"
-        }
-      ]
+      "devices": []
     },
     "vip-mstwcmpeh3mrcm": {
       "id": "vip-mstwcmpeh3mrcm",
@@ -115,15 +83,7 @@
     "vip-msu6dhqrkgmali": {
       "id": "vip-msu6dhqrkgmali",
       "created": "2026-08-15T09:30:08.019Z",
-      "devices": [
-        {
-          "id": "fp_xsu52r",
-          "first": "2026-08-17T03:08:47.078Z",
-          "last": "2026-08-18T03:26:21.300Z",
-          "visits": 2,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        }
-      ]
+      "devices": []
     },
     "vip-msuclpy03b6qpd": {
       "id": "vip-msuclpy03b6qpd",
@@ -138,54 +98,8 @@
     "vip-msvvlzd8gafh3a": {
       "id": "vip-msvvlzd8gafh3a",
       "created": "2026-08-16T14:04:20.684Z",
-      "devices": [
-        {
-          "id": "fp_xsu52r",
-          "first": "2026-08-16T14:20:16.455Z",
-          "last": "2026-08-18T03:29:47.369Z",
-          "visits": 16,
-          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
-        },
-        {
-          "id": "fp_l4oo08",
-          "first": "2026-08-17T13:42:12.874Z",
-          "last": "2026-08-17T13:52:32.549Z",
-          "visits": 6,
-          "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-cn; OPD2515 Build/BP2A.250605.015) AppleWe"
-        }
-      ]
+      "devices": []
     }
   },
-  "globalDevices": {
-    "fp_xsu52r": {
-      "first": "2026-08-16T14:20:16.455Z",
-      "last": "2026-08-18T03:29:47.369Z",
-      "role": "sub"
-    },
-    "fp_za3gok7il8": {
-      "first": "2026-08-16T14:32:39.205Z",
-      "last": "2026-08-16T17:00:32.437Z",
-      "role": "sub"
-    },
-    "fp_lr8jk9aghh": {
-      "first": "2026-08-17T12:15:26.825Z",
-      "last": "2026-08-18T00:37:23.200Z",
-      "role": "sub"
-    },
-    "fp_l4oo08": {
-      "first": "2026-08-17T13:42:12.874Z",
-      "last": "2026-08-17T13:52:32.549Z",
-      "role": "sub"
-    },
-    "fp_w10wvlypuo": {
-      "first": "2026-08-18T04:33:21.092Z",
-      "last": "2026-08-18T04:47:40.214Z",
-      "role": "sub"
-    },
-    "test-debug-001": {
-      "first": "2026-08-18T06:18:47.803Z",
-      "last": "2026-08-18T06:18:47.803Z",
-      "role": "sub"
-    }
-  }
+  "globalDevices": {}
 }
