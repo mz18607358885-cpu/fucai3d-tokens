@@ -112,7 +112,15 @@
     "vip-msuclpy03b6qpd": {
       "id": "vip-msuclpy03b6qpd",
       "created": "2026-08-15T12:24:29.592Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_ys3otxchhd",
+          "first": "2026-08-18T11:36:21.207Z",
+          "last": "2026-08-18T11:36:21.207Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; HBP-AL00; HMSCore 6.16.2.342) AppleWe"
+        }
+      ]
     },
     "vip-msuef7rheg43ww": {
       "id": "vip-msuef7rheg43ww",
@@ -139,6 +147,11 @@
     "fp_za3gok7il8": {
       "first": "2026-08-18T10:34:43.725Z",
       "last": "2026-08-18T10:35:22.901Z",
+      "role": "sub"
+    },
+    "fp_ys3otxchhd": {
+      "first": "2026-08-18T11:36:21.207Z",
+      "last": "2026-08-18T11:36:21.207Z",
       "role": "sub"
     }
   }
