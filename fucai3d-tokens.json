@@ -166,7 +166,15 @@
     "vip-mt1rssi623pe0h": {
       "id": "vip-mt1rssi623pe0h",
       "created": "2026-08-20T17:04:16.974Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_f80tr",
+          "first": "2026-08-20T17:04:40.120Z",
+          "last": "2026-08-20T17:04:40.120Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; V2405A) AppleWebKit/537.36 (KHTML, like Gecko) C"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -208,6 +216,11 @@
     "fp_vbqc90": {
       "first": "2026-08-19T04:34:05.937Z",
       "last": "2026-08-19T04:34:05.937Z",
+      "role": "sub"
+    },
+    "fp_f80tr": {
+      "first": "2026-08-20T17:04:40.120Z",
+      "last": "2026-08-20T17:04:40.120Z",
       "role": "sub"
     }
   }
