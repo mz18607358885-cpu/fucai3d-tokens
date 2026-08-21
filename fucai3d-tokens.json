@@ -78,8 +78,8 @@
         {
           "id": "fp_lr8jk9aghh",
           "first": "2026-08-18T07:06:14.871Z",
-          "last": "2026-08-20T13:27:28.497Z",
-          "visits": 14,
+          "last": "2026-08-21T02:19:16.666Z",
+          "visits": 15,
           "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; PLR-AL30; HMSCore 6.16.2.322) AppleWe"
         }
       ]
@@ -180,7 +180,7 @@
   "globalDevices": {
     "fp_lr8jk9aghh": {
       "first": "2026-08-18T07:06:14.871Z",
-      "last": "2026-08-20T13:27:28.497Z",
+      "last": "2026-08-21T02:19:16.666Z",
       "role": "sub"
     },
     "fp_nbspfyk81f": {
