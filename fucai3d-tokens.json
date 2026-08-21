@@ -59,7 +59,15 @@
     "vip-msr9sxif6lopvq": {
       "id": "vip-msr9sxif6lopvq",
       "created": "2026-08-13T08:42:48.615Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_xsu52r",
+          "first": "2026-08-21T05:48:22.531Z",
+          "last": "2026-08-21T05:48:22.531Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        }
+      ]
     },
     "vip-msshj0wvd5rjfc": {
       "id": "vip-msshj0wvd5rjfc",
@@ -205,7 +213,7 @@
     },
     "fp_xsu52r": {
       "first": "2026-08-18T13:53:22.865Z",
-      "last": "2026-08-20T02:11:31.781Z",
+      "last": "2026-08-21T05:48:22.531Z",
       "role": "sub"
     },
     "fp_3dcwg4zapc": {
