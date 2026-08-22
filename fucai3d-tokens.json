@@ -215,6 +215,13 @@
           "last": "2026-08-22T15:12:26.293Z",
           "visits": 3,
           "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; DCO-AL00; HMSCore 6.16.2.342) AppleWe"
+        },
+        {
+          "id": "fp_yv8zz",
+          "first": "2026-08-22T15:40:00.956Z",
+          "last": "2026-08-22T15:40:00.956Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
     }
@@ -273,6 +280,11 @@
     "fp_h9l2hl": {
       "first": "2026-08-22T15:07:28.173Z",
       "last": "2026-08-22T15:12:26.293Z",
+      "role": "sub"
+    },
+    "fp_yv8zz": {
+      "first": "2026-08-22T15:40:00.956Z",
+      "last": "2026-08-22T15:40:00.956Z",
       "role": "sub"
     }
   }
