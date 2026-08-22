@@ -208,7 +208,15 @@
     "vip-mt4igafos7ph2l": {
       "id": "vip-mt4igafos7ph2l",
       "created": "2026-08-22T15:05:55.668Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_h9l2hl",
+          "first": "2026-08-22T15:07:28.173Z",
+          "last": "2026-08-22T15:07:28.173Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; DCO-AL00; HMSCore 6.16.2.342) AppleWe"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -260,6 +268,11 @@
     "fp_w2vb5p": {
       "first": "2026-08-22T03:41:08.235Z",
       "last": "2026-08-22T03:41:08.235Z",
+      "role": "sub"
+    },
+    "fp_h9l2hl": {
+      "first": "2026-08-22T15:07:28.173Z",
+      "last": "2026-08-22T15:07:28.173Z",
       "role": "sub"
     }
   }
