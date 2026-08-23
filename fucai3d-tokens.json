@@ -219,8 +219,8 @@
         {
           "id": "fp_yv8zz",
           "first": "2026-08-22T15:40:00.956Z",
-          "last": "2026-08-23T07:30:30.265Z",
-          "visits": 23,
+          "last": "2026-08-23T13:28:03.814Z",
+          "visits": 24,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
@@ -297,7 +297,7 @@
     },
     "fp_yv8zz": {
       "first": "2026-08-22T15:40:00.956Z",
-      "last": "2026-08-23T07:30:30.265Z",
+      "last": "2026-08-23T13:28:03.814Z",
       "role": "sub"
     },
     "fp_cfy0as": {
