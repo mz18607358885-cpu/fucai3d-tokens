@@ -255,6 +255,13 @@
           "last": "2026-08-25T15:16:35.242Z",
           "visits": 4,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        },
+        {
+          "id": "fp_mg8103",
+          "first": "2026-08-25T15:17:00.892Z",
+          "last": "2026-08-25T15:17:00.892Z",
+          "visits": 1,
+          "ua": "android"
         }
       ]
     }
@@ -333,6 +340,11 @@
     "fp_j33m1d": {
       "first": "2026-08-25T14:51:18.588Z",
       "last": "2026-08-25T15:16:35.242Z",
+      "role": "sub"
+    },
+    "fp_mg8103": {
+      "first": "2026-08-25T15:17:00.892Z",
+      "last": "2026-08-25T15:17:00.892Z",
       "role": "sub"
     }
   }
