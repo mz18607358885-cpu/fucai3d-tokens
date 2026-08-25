@@ -248,7 +248,15 @@
     "vip-mt8s18z0ytqgbb": {
       "id": "vip-mt8s18z0ytqgbb",
       "created": "2026-08-25T14:45:14.796Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_j33m1d",
+          "first": "2026-08-25T14:51:18.588Z",
+          "last": "2026-08-25T14:51:18.588Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -320,6 +328,11 @@
     "fp_jw0905": {
       "first": "2026-08-25T02:58:04.705Z",
       "last": "2026-08-25T07:11:04.297Z",
+      "role": "sub"
+    },
+    "fp_j33m1d": {
+      "first": "2026-08-25T14:51:18.588Z",
+      "last": "2026-08-25T14:51:18.588Z",
       "role": "sub"
     }
   }
