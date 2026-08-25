@@ -235,6 +235,13 @@
           "last": "2026-08-25T00:28:48.996Z",
           "visits": 11,
           "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-cn; 24117RK2CC Build/BP2A.250605.031.A3) A"
+        },
+        {
+          "id": "fp_jw0905",
+          "first": "2026-08-25T02:58:04.705Z",
+          "last": "2026-08-25T02:58:04.705Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
     }
@@ -303,6 +310,11 @@
     "fp_cfy0as": {
       "first": "2026-08-23T09:33:07.993Z",
       "last": "2026-08-25T00:28:48.996Z",
+      "role": "sub"
+    },
+    "fp_jw0905": {
+      "first": "2026-08-25T02:58:04.705Z",
+      "last": "2026-08-25T02:58:04.705Z",
       "role": "sub"
     }
   }
