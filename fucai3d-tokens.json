@@ -262,6 +262,13 @@
           "last": "2026-08-25T15:17:00.892Z",
           "visits": 1,
           "ua": "android"
+        },
+        {
+          "id": "fp_wc0p2s",
+          "first": "2026-08-27T11:52:59.962Z",
+          "last": "2026-08-27T11:52:59.962Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
     }
@@ -345,6 +352,11 @@
     "fp_mg8103": {
       "first": "2026-08-25T15:17:00.892Z",
       "last": "2026-08-25T15:17:00.892Z",
+      "role": "sub"
+    },
+    "fp_wc0p2s": {
+      "first": "2026-08-27T11:52:59.962Z",
+      "last": "2026-08-27T11:52:59.962Z",
       "role": "sub"
     }
   }
