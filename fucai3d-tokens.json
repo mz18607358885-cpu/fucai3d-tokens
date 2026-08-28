@@ -288,7 +288,15 @@
     "vip-mtclkgi6rrekfu": {
       "id": "vip-mtclkgi6rrekfu",
       "created": "2026-08-28T06:55:18.414Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_muf3e9zf7r",
+          "first": "2026-08-28T06:55:50.426Z",
+          "last": "2026-08-28T06:55:50.426Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; V2502A) AppleWebKit/537.36 (KHTML, like Gecko) C"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -380,6 +388,11 @@
     "fp_t955o8": {
       "first": "2026-08-27T14:28:54.180Z",
       "last": "2026-08-28T01:00:47.811Z",
+      "role": "sub"
+    },
+    "fp_muf3e9zf7r": {
+      "first": "2026-08-28T06:55:50.426Z",
+      "last": "2026-08-28T06:55:50.426Z",
       "role": "sub"
     }
   }
