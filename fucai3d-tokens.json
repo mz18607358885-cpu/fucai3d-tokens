@@ -314,7 +314,15 @@
     "vip-mtejbfraqulvjw": {
       "id": "vip-mtejbfraqulvjw",
       "created": "2026-08-29T15:27:50.662Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_dvi4jh",
+          "first": "2026-08-29T15:28:49.226Z",
+          "last": "2026-08-29T15:28:49.226Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; U; Android 13; zh-cn; 21091116C Build/TP1A.220624.014) Apple"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -416,6 +424,11 @@
     "fp_dtx9fn": {
       "first": "2026-08-29T14:00:11.435Z",
       "last": "2026-08-29T14:09:22.948Z",
+      "role": "sub"
+    },
+    "fp_dvi4jh": {
+      "first": "2026-08-29T15:28:49.226Z",
+      "last": "2026-08-29T15:28:49.226Z",
       "role": "sub"
     }
   }
