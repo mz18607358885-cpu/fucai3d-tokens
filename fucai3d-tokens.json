@@ -327,7 +327,15 @@
     "vip-mteli7kmgc6bgw": {
       "id": "vip-mteli7kmgc6bgw",
       "created": "2026-08-29T16:29:05.878Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_fmpc96",
+          "first": "2026-08-29T16:31:52.502Z",
+          "last": "2026-08-29T16:31:52.502Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -434,6 +442,11 @@
     "fp_dvi4jh": {
       "first": "2026-08-29T15:28:49.226Z",
       "last": "2026-08-29T16:03:53.563Z",
+      "role": "sub"
+    },
+    "fp_fmpc96": {
+      "first": "2026-08-29T16:31:52.502Z",
+      "last": "2026-08-29T16:31:52.502Z",
       "role": "sub"
     }
   }
