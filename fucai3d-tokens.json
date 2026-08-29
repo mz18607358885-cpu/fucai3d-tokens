@@ -301,7 +301,15 @@
     "vip-mteg3ssfzg1297": {
       "id": "vip-mteg3ssfzg1297",
       "created": "2026-08-29T13:57:55.455Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_dtx9fn",
+          "first": "2026-08-29T14:00:11.435Z",
+          "last": "2026-08-29T14:00:11.435Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-cn; 2509FPN0BC Build/BP2A.250605.031.A3) A"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -398,6 +406,11 @@
     "fp_muf3e9zf7r": {
       "first": "2026-08-28T06:55:50.426Z",
       "last": "2026-08-28T06:55:50.426Z",
+      "role": "sub"
+    },
+    "fp_dtx9fn": {
+      "first": "2026-08-29T14:00:11.435Z",
+      "last": "2026-08-29T14:00:11.435Z",
       "role": "sub"
     }
   }
