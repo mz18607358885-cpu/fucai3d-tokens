@@ -340,7 +340,15 @@
     "vip-mtemrinm3zmxlf": {
       "id": "vip-mtemrinm3zmxlf",
       "created": "2026-08-29T17:04:19.762Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_bzv65o",
+          "first": "2026-08-29T17:05:25.240Z",
+          "last": "2026-08-29T17:05:25.240Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; AAP-AN00; GMSCore 26.04.38 (260400-867839860)) A"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -452,6 +460,11 @@
     "fp_fmpc96": {
       "first": "2026-08-29T16:31:52.502Z",
       "last": "2026-08-29T16:31:52.502Z",
+      "role": "sub"
+    },
+    "fp_bzv65o": {
+      "first": "2026-08-29T17:05:25.240Z",
+      "last": "2026-08-29T17:05:25.240Z",
       "role": "sub"
     }
   }
