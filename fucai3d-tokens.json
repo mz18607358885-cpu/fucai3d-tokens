@@ -356,6 +356,11 @@
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHT"
         }
       ]
+    },
+    "vip-mtfg899i5umk5s": {
+      "id": "vip-mtfg899i5umk5s",
+      "created": "2026-08-30T06:49:09.606Z",
+      "devices": []
     }
   },
   "globalDevices": {
