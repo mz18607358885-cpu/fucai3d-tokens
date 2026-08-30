@@ -351,8 +351,8 @@
         {
           "id": "fp_38jmjt",
           "first": "2026-08-30T01:51:53.097Z",
-          "last": "2026-08-30T01:51:53.097Z",
-          "visits": 1,
+          "last": "2026-08-30T02:30:52.983Z",
+          "visits": 2,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHT"
         }
       ]
@@ -476,7 +476,7 @@
     },
     "fp_38jmjt": {
       "first": "2026-08-30T01:51:53.097Z",
-      "last": "2026-08-30T01:51:53.097Z",
+      "last": "2026-08-30T02:30:52.983Z",
       "role": "sub"
     }
   }
