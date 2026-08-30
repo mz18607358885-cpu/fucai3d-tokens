@@ -326,6 +326,13 @@
           "last": "2026-08-30T12:18:12.145Z",
           "visits": 3,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        },
+        {
+          "id": "fp_v1ashy",
+          "first": "2026-08-30T12:22:32.012Z",
+          "last": "2026-08-30T12:22:32.012Z",
+          "visits": 1,
+          "ua": "android"
         }
       ]
     },
@@ -474,6 +481,11 @@
     "fp_38jmjt": {
       "first": "2026-08-30T01:51:53.097Z",
       "last": "2026-08-30T11:36:25.745Z",
+      "role": "sub"
+    },
+    "fp_v1ashy": {
+      "first": "2026-08-30T12:22:32.012Z",
+      "last": "2026-08-30T12:22:32.012Z",
       "role": "sub"
     }
   }
