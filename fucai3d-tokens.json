@@ -376,7 +376,15 @@
     "vip-mtlyx4emjqfnxr": {
       "id": "vip-mtlyx4emjqfnxr",
       "created": "2026-09-03T20:18:59.854Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_ibvkpy",
+          "first": "2026-09-03T21:05:44.697Z",
+          "last": "2026-09-03T21:05:44.697Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 15; V2410A Build/AP3A.240905.015.A2) AppleWebKit/537"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -503,6 +511,11 @@
     "fp_ka4pp1": {
       "first": "2026-09-01T05:55:53.572Z",
       "last": "2026-09-03T17:38:17.448Z",
+      "role": "sub"
+    },
+    "fp_ibvkpy": {
+      "first": "2026-09-03T21:05:44.697Z",
+      "last": "2026-09-03T21:05:44.697Z",
       "role": "sub"
     }
   }
