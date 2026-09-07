@@ -447,6 +447,13 @@
           "last": "2026-09-07T09:17:48.155Z",
           "visits": 2,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
+        },
+        {
+          "id": "fp_tg77w",
+          "first": "2026-09-07T15:31:51.742Z",
+          "last": "2026-09-07T15:31:51.742Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
         }
       ]
     }
@@ -605,6 +612,11 @@
     "fp_cw1yd5": {
       "first": "2026-09-07T00:48:37.991Z",
       "last": "2026-09-07T00:48:37.991Z",
+      "role": "sub"
+    },
+    "fp_tg77w": {
+      "first": "2026-09-07T15:31:51.742Z",
+      "last": "2026-09-07T15:31:51.742Z",
       "role": "sub"
     }
   }
