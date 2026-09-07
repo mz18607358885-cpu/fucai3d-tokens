@@ -248,6 +248,13 @@
           "last": "2026-09-07T00:46:47.408Z",
           "visits": 1,
           "ua": "Mozilla/5.0 (Linux; Android 10; HD1900 Build/QKQ1.190716.003; wv) AppleWebKit/53"
+        },
+        {
+          "id": "fp_jvpyco",
+          "first": "2026-09-07T00:47:01.029Z",
+          "last": "2026-09-07T00:47:01.029Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14"
         }
       ]
     },
@@ -563,6 +570,11 @@
     "fp_fq4w3n": {
       "first": "2026-09-07T00:46:47.408Z",
       "last": "2026-09-07T00:46:47.408Z",
+      "role": "sub"
+    },
+    "fp_jvpyco": {
+      "first": "2026-09-07T00:47:01.029Z",
+      "last": "2026-09-07T00:47:01.029Z",
       "role": "sub"
     }
   }
