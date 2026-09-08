@@ -289,6 +289,13 @@
           "last": "2026-08-30T13:46:49.345Z",
           "visits": 8,
           "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        },
+        {
+          "id": "fp_wdwh83",
+          "first": "2026-09-08T11:14:15.025Z",
+          "last": "2026-09-08T11:14:15.025Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro"
         }
       ]
     },
@@ -629,6 +636,11 @@
     "fp_fg3f2t": {
       "first": "2026-09-07T17:36:30.203Z",
       "last": "2026-09-07T17:36:30.203Z",
+      "role": "sub"
+    },
+    "fp_wdwh83": {
+      "first": "2026-09-08T11:14:15.025Z",
+      "last": "2026-09-08T11:14:15.025Z",
       "role": "sub"
     }
   }
