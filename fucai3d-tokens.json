@@ -474,7 +474,15 @@
     "vip-mtxp91e6jnfa6n": {
       "id": "vip-mtxp91e6jnfa6n",
       "created": "2026-09-12T01:21:33.774Z",
-      "devices": []
+      "devices": [
+        {
+          "id": "fp_hsbj9",
+          "first": "2026-09-12T01:22:56.972Z",
+          "last": "2026-09-12T01:22:56.972Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; PLV110 Build/AP3A.240617.008; wv) AppleWebKit/53"
+        }
+      ]
     }
   },
   "globalDevices": {
@@ -646,6 +654,11 @@
     "fp_wdwh83": {
       "first": "2026-09-08T11:14:15.025Z",
       "last": "2026-09-10T13:58:43.466Z",
+      "role": "sub"
+    },
+    "fp_hsbj9": {
+      "first": "2026-09-12T01:22:56.972Z",
+      "last": "2026-09-12T01:22:56.972Z",
       "role": "sub"
     }
   }
