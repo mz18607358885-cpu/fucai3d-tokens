@@ -227,15 +227,7 @@
     "vip-mt5lzdj1ecb4qn": {
       "id": "vip-mt5lzdj1ecb4qn",
       "created": "2026-08-23T09:32:31.165Z",
-      "devices": [
-        {
-          "id": "fp_cw1yd5",
-          "first": "2026-09-07T00:48:37.991Z",
-          "last": "2026-09-07T00:48:37.991Z",
-          "visits": 1,
-          "ua": "Mozilla/5.0 (Linux; U; Android 16; zh-CN; 24117RK2CC Build/BP2A.250605.031.A3) A"
-        }
-      ]
+      "devices": []
     },
     "vip-mt8s18z0ytqgbb": {
       "id": "vip-mt8s18z0ytqgbb",
