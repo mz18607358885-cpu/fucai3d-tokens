@@ -192,8 +192,8 @@
         {
           "id": "fp_f80tr",
           "first": "2026-08-20T17:04:40.120Z",
-          "last": "2026-09-17T12:56:34.741Z",
-          "visits": 80,
+          "last": "2026-09-18T05:01:04.707Z",
+          "visits": 81,
           "ua": "Mozilla/5.0 (Linux; Android 16; V2405A) AppleWebKit/537.36 (KHTML, like Gecko) C"
         }
       ]
@@ -501,7 +501,7 @@
     },
     "fp_f80tr": {
       "first": "2026-08-20T17:04:40.120Z",
-      "last": "2026-09-17T12:56:34.741Z",
+      "last": "2026-09-18T05:01:04.707Z",
       "role": "sub"
     },
     "fp_w2vb5p": {
