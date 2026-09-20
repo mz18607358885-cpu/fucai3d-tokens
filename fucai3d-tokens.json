@@ -43,8 +43,8 @@
         {
           "id": "fp_yacu38",
           "first": "2026-09-20T01:34:54.632Z",
-          "last": "2026-09-20T01:34:56.062Z",
-          "visits": 2,
+          "last": "2026-09-20T02:20:35.468Z",
+          "visits": 3,
           "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT"
         }
       ]
@@ -671,7 +671,7 @@
     },
     "fp_yacu38": {
       "first": "2026-09-20T01:34:54.632Z",
-      "last": "2026-09-20T01:34:56.062Z",
+      "last": "2026-09-20T02:20:35.468Z",
       "role": "sub"
     }
   }
