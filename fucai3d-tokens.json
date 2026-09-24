@@ -215,6 +215,13 @@
           "last": "2026-09-13T06:20:55.520Z",
           "visits": 10,
           "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro"
+        },
+        {
+          "id": "fp_u5ag3m",
+          "first": "2026-09-24T22:38:38.602Z",
+          "last": "2026-09-24T22:38:38.602Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 16; MAG-AN00 Build/HONORMAG-AN00;) AppleWebKit/537.3"
         }
       ]
     },
@@ -672,6 +679,11 @@
     "fp_yacu38": {
       "first": "2026-09-20T01:34:54.632Z",
       "last": "2026-09-20T02:20:35.468Z",
+      "role": "sub"
+    },
+    "fp_u5ag3m": {
+      "first": "2026-09-24T22:38:38.602Z",
+      "last": "2026-09-24T22:38:38.602Z",
       "role": "sub"
     }
   }
