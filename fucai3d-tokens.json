@@ -292,8 +292,8 @@
         {
           "id": "fp_wdwh83",
           "first": "2026-09-08T11:14:15.025Z",
-          "last": "2026-09-25T03:09:32.888Z",
-          "visits": 12,
+          "last": "2026-09-26T09:23:44.364Z",
+          "visits": 13,
           "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro"
         },
         {
@@ -672,7 +672,7 @@
     },
     "fp_wdwh83": {
       "first": "2026-09-08T11:14:15.025Z",
-      "last": "2026-09-25T03:09:32.888Z",
+      "last": "2026-09-26T09:23:44.364Z",
       "role": "sub"
     },
     "fp_hsbj9": {
