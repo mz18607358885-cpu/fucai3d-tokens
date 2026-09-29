@@ -29,8 +29,8 @@
         {
           "id": "fp_ka4pp1",
           "first": "2026-09-01T05:55:53.572Z",
-          "last": "2026-09-29T08:04:15.502Z",
-          "visits": 31,
+          "last": "2026-09-29T08:04:27.529Z",
+          "visits": 32,
           "ua": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; PBEM00 Build/QKQ1.190918.001) AppleWeb"
         },
         {
@@ -627,7 +627,7 @@
     },
     "fp_ka4pp1": {
       "first": "2026-09-01T05:55:53.572Z",
-      "last": "2026-09-29T08:04:15.502Z",
+      "last": "2026-09-29T08:04:27.529Z",
       "role": "sub"
     },
     "fp_ibvkpy": {
