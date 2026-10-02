@@ -368,6 +368,13 @@
           "last": "2026-10-02T13:12:23.950Z",
           "visits": 7,
           "ua": "Mozilla/5.0 (Linux; U; Android 13; zh-CN; 21091116C Build/TP1A.220624.014) Apple"
+        },
+        {
+          "id": "fp_fg3f2t",
+          "first": "2026-10-02T14:54:18.615Z",
+          "last": "2026-10-02T14:54:18.615Z",
+          "visits": 1,
+          "ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML"
         }
       ]
     },
@@ -674,7 +681,7 @@
     },
     "fp_fg3f2t": {
       "first": "2026-09-07T17:36:30.203Z",
-      "last": "2026-09-07T17:36:30.203Z",
+      "last": "2026-10-02T14:54:18.615Z",
       "role": "sub"
     },
     "fp_wdwh83": {
